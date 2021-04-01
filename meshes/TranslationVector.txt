@@ -1,0 +1,14 @@
+Base to Tilt:
+dx : 0 m
+dy : -0.025 m
+dz : 0.022 m
+
+Tilt to Pan:
+dx : 0 m
+dy : 0.025 m
+dz : 0.042 m
+
+Pan to End Effector:
+dx : 0.023 m
+dy : 0 m
+dz : 0.015 m
